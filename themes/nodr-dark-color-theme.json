@@ -321,6 +321,13 @@
         "foreground": "#DF5D46",
         "fontStyle": "italic"
       }
+    },
+    {
+      "name": "Constant Numeric",
+      "scope": "constant.numeric, keyword.other.unit, support.constant",
+      "settings": {
+        "fontStyle": "normal"
+      }
     }
   ]
 }
