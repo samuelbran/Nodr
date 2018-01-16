@@ -1,0 +1,23 @@
+{
+  "name": "nodr",
+  "displayName": "Nodr",
+  "description": "Dark soft colored theme for Visual Studio Code",
+  "version": "1.0.4",
+  "publisher": "samuelbran",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.svg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nodr",
+        "uiTheme": "vs-dark",
+        "path": "themes/nodr-dark-color-theme.json"
+      }
+    ]
+  }
+}
