@@ -294,7 +294,7 @@
       "scope":
         "entity.name.function, keyword.other.special-method, variable.function, meta.block-level, support.function",
       "settings": {
-        "foreground": "#7EC699"
+        "foreground": "#F08D49"
       }
     },
     {
