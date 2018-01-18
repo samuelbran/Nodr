@@ -290,6 +290,14 @@
       }
     },
     {
+      "name": "Reserved variable names",
+      "scope": "variable.language",
+      "settings": {
+        "foreground": "#4499CD",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Function, Special Method, Block Level",
       "scope":
         "entity.name.function, keyword.other.special-method, variable.function, meta.block-level, support.function",
