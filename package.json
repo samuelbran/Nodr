@@ -16,7 +16,12 @@
       {
         "label": "Nodr",
         "uiTheme": "vs-dark",
-        "path": "themes/nodr-dark-color-theme.json"
+        "path": "./themes/nodr-dark-color-theme.json"
+      },
+      {
+        "label": "Nodr Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nodr-darker-color-theme.json"
       }
     ]
   }
