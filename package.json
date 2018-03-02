@@ -22,6 +22,11 @@
         "label": "Nodr Darker",
         "uiTheme": "vs-dark",
         "path": "./themes/nodr-darker-color-theme.json"
+      },
+      {
+        "label": "Nodr Plum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nodr-plum-color-theme.json"
       }
     ]
   }
