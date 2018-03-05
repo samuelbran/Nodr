@@ -200,7 +200,11 @@
     "debugToolBar.background": "#393939",
     "welcomePage.buttonBackground": "#393939",
     "welcomePage.buttonHoverBackground": "#494949",
-    "walkThrough.embeddedEditorBackground": "#2D2D2D"
+    "walkThrough.embeddedEditorBackground": "#2D2D2D",
+    "gitDecoration.modifiedResourceForeground": "#F08D49",
+    "gitDecoration.deletedResourceForeground": "#DF5D46",
+    "gitDecoration.untrackedResourceForeground": "#7EC699",
+    "gitDecoration.conflictingResourceForeground": "#CC99CD"
   },
   "tokenColors": [
     {
@@ -299,32 +303,28 @@
     },
     {
       "name": "Function, Special Method, Block Level",
-      "scope":
-        "entity.name.function, keyword.other.special-method, variable.function, meta.block-level, support.function",
+      "scope": "entity.name.function, keyword.other.special-method, variable.function, meta.block-level, support.function",
       "settings": {
         "foreground": "#F08D49"
       }
     },
     {
       "name": "Class, Instance, Support",
-      "scope":
-        "entity.name.class, entity.name.type.class, entity.name.instance, entity.name.type.instance, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
+      "scope": "entity.name.class, entity.name.type.class, entity.name.instance, entity.name.type.instance, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
       "settings": {
         "foreground": "#f8c555"
       }
     },
     {
       "name": "Symbols, Inherited Class",
-      "scope":
-        "keyword.other.template, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+      "scope": "keyword.other.template, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
       "settings": {
         "foreground": "#7EC699"
       }
     },
     {
       "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
-      "scope":
-        "constant,constant.numeric, constant.language, support.constant, constant.character, variable.parameter, keyword.other.unit",
+      "scope": "constant,constant.numeric, constant.language, support.constant, constant.character, variable.parameter, keyword.other.unit",
       "settings": {
         "foreground": "#DF5D46",
         "fontStyle": "italic"

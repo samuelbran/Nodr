@@ -200,7 +200,11 @@
     "debugToolBar.background": "#3D3A4A",
     "welcomePage.buttonBackground": "#332F44",
     "welcomePage.buttonHoverBackground": "#37334C",
-    "walkThrough.embeddedEditorBackground": "#2A2739"
+    "walkThrough.embeddedEditorBackground": "#2A2739",
+    "gitDecoration.modifiedResourceForeground": "#F08D49",
+    "gitDecoration.deletedResourceForeground": "#DF5D46",
+    "gitDecoration.untrackedResourceForeground": "#6FDF8E",
+    "gitDecoration.conflictingResourceForeground": "#CC99CD"
   },
   "tokenColors": [
     {
@@ -243,7 +247,7 @@
       "name": "Tag attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#F08D49"
+        "foreground": "#CC99CD"
       }
     },
     {
@@ -271,7 +275,7 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#cc99cd",
+        "foreground": "#CC99CD",
         "fontStyle": "italic"
       }
     },

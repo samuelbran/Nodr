@@ -200,7 +200,11 @@
     "debugToolBar.background": "#343434",
     "welcomePage.buttonBackground": "#262626",
     "welcomePage.buttonHoverBackground": "#323232",
-    "walkThrough.embeddedEditorBackground": "#212121"
+    "walkThrough.embeddedEditorBackground": "#212121",
+    "gitDecoration.modifiedResourceForeground": "#F08D49",
+    "gitDecoration.deletedResourceForeground": "#DF5D46",
+    "gitDecoration.untrackedResourceForeground": "#7EC699",
+    "gitDecoration.conflictingResourceForeground": "#CC99CD"
   },
   "tokenColors": [
     {
