@@ -2,7 +2,7 @@
   "name": "Nodr",
   "type": "dark",
   "colors": {
-    "focusBorder": "#2D2D2D",
+    "focusBorder": "#393939",
     "foreground": "#CCCCCC",
     "widget.shadow": "#222222",
     "selection.background": "#494949",
