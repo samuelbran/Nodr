@@ -180,7 +180,7 @@
     "extensionButton.prominentForeground": "#332F44",
     "extensionButton.prominentBackground": "#F6BF47",
     "extensionButton.prominentHoverBackground": "#F8C555",
-    "pickerGroup.border": "#3D3A4A",
+    "pickerGroup.border": "#332F44",
     "pickerGroup.foreground": "#8A86A1",
     "terminal.background": "#2A2739",
     "terminal.foreground": "#8A86A1",
