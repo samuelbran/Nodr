@@ -2,7 +2,7 @@
   "name": "nodr",
   "displayName": "Nodr",
   "description": "Dark soft colored themes for Visual Studio Code",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "publisher": "samuelbran",
   "engines": {
     "vscode": "^1.14.0"
