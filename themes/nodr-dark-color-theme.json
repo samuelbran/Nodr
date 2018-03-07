@@ -4,7 +4,7 @@
   "colors": {
     "focusBorder": "#404040",
     "foreground": "#999999",
-    "widget.shadow": "#201D2C",
+    "widget.shadow": "#202020",
     "selection.background": "#353535",
     "errorForeground": "#DF5D46",
     "textLink.foreground": "#F6BF47",
