@@ -1,7 +1,7 @@
 {
   "name": "nodr",
   "displayName": "Nodr",
-  "description": "Dark soft colored themes for Visual Studio Code",
+  "description": "Dark soft colored themes for Visual Studio Code, inspired by Node.js website.",
   "version": "1.0.0",
   "publisher": "samuelbran",
   "engines": {
