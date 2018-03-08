@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "publisher": "samuelbran",
   "engines": {
-    "vscode": "^1.14.0"
+    "vscode": "^1.21.0"
   },
   "categories": [
     "Themes"
