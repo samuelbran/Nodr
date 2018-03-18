@@ -248,7 +248,7 @@
       "name": "Tag attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#CC99CD"
+        "foreground": "#E278B4"
       }
     },
     {
@@ -276,7 +276,7 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#CC99CD",
+        "foreground": "#E278B4",
         "fontStyle": "italic"
       }
     },
