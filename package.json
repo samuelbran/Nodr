@@ -1,8 +1,8 @@
 {
   "name": "nodr",
   "displayName": "Nodr",
-  "description": "Dark soft colored themes for Visual Studio Code, inspired by Node.js website.",
-  "version": "1.0.0",
+  "description": "A collection of 4 dark themes for Visual Studio Code, inspired by Node.js website.",
+  "version": "1.2.0",
   "publisher": "samuelbran",
   "engines": {
     "vscode": "^1.21.0"
@@ -11,6 +11,10 @@
     "Themes"
   ],
   "icon": "https://raw.githubusercontent.com/samuelbran/Nodr/master/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samuelbran/Nodr"
+  },
   "contributes": {
     "themes": [
       {
