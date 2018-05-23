@@ -277,8 +277,7 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#D68CCA",
-        "fontStyle": "italic"
+        "foreground": "#D68CCA"
       }
     },
     {
