@@ -10,7 +10,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "https://raw.githubusercontent.com/samuelbran/Nodr/master/icon.png",
+  "icon": "./icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/samuelbran/Nodr"
