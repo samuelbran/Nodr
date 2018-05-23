@@ -1,5 +1,5 @@
 # Nodr
-A Visual Studio Code theme pack inspired in <a href="https://nodejs.org/en/docs/guides/getting-started-guide/">nodejs.org</a> syntax highlighting.
+A collection of 4 dark themes for Visual Studio Code, inspired by <a href="https://nodejs.org/en/docs/guides/getting-started-guide/">nodejs.org</a> syntax highlighting.
 
 # Previews
 ### Nodr Plum
