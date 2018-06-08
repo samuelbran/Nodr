@@ -337,6 +337,34 @@
       "settings": {
         "fontStyle": "normal"
       }
+    },
+    {
+      "name": "SCSS Class, Attribute Selector",
+      "scope": "entity.other.attribute-name.class.css, meta.attribute-selector.scss",
+      "settings": {
+        "foreground": "#6FDF8E"
+      }
+    },
+    {
+      "name": "SCSS Punctuation Brackets",
+      "scope": "punctuation.definition.attribute-selector.begin.bracket.square.scss, punctuation.definition.attribute-selector.end.bracket.square.scss",
+      "settings": {
+        "foreground": "#8a86a1"
+      }
+    },
+    {
+      "name": "SCSS Operator",
+      "scope": "keyword.operator.scss",
+      "settings": {
+        "foreground": "#A87DE0"
+      }
+    },
+    {
+      "name": "SCSS Name Tag",
+      "scope": "entity.name.tag.css",
+      "settings": {
+        "foreground": "#F08D49"
+      }
     }
   ]
 }
